@@ -1,0 +1,223 @@
+body{
+    background: #F5F5F5;
+}
+/* Bordered form */
+form {
+    width:100%;
+    padding: 30px;
+    border: 1px solid #f5f5f5;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.fond {
+  background-image: url("logo.png");
+}
+
+.center {
+  background-color: white;
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #E5E5E5;
+  border-top: 0px;
+  color: black;
+  text-align: "center";
+}
+tr {
+  border: 0px;
+  padding: 0;
+  margin: 0;
+}
+td {
+  border: 0px;
+  padding: 0 5px;
+  margin: 0;
+}
+
+th {
+  background-color: white;
+  color: black;
+  border: 1px solid #E5E5E5;
+  padding: 0;
+  margin: 0;
+}
+
+#container h1{
+    width: 38%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+/* Full-width inputs */
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+input[type=submit], #sendm {
+    background-color: #5a3b76;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+input[type=submit]:hover, #sendm:hover {
+    background-color: white;
+    color: #5a3b76;
+    border: 1px solid #5a3b76;
+}
+
+body {
+	background: #E8E8E8;
+}
+
+form.formcontainair {
+       width: 9O%;
+       margin: 0px;
+       margin-top:10%;
+       padding: 10px
+}
+
+@media screen and (max-width: 700px) {
+form.formcontainair {
+    width:400px;
+    margin:0 auto;
+    margin-top:10%;
+    padding: 10px
+}
+}
+@media (max-width: 700px){
+    table {
+      width: 98%;
+    }
+    table thead {
+    display: none;
+    }
+
+    table tr{
+    display: block;
+    margin-bottom: 40px;
+    }
+
+    table td {
+    display: block;
+    text-align: right;
+    }
+
+    table td:before {
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    }
+    tbody tr:nth-child(odd) {
+	background:#ccc;
+    }
+    tbody tr:nth-child(even) {
+	background:#ff;
+    }
+}
+
+#menu {
+	margin: 0;
+	padding: 4px 0 0 0;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+#menu li {
+	margin: 0 5px;
+	padding: 0 0 8px;
+	float: left;
+	position: relative;
+	list-style: none;
+}
+
+#menu a {
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+	display: block;
+	padding:  8px 20px;
+	margin: 0;
+}
+
+#menu a:hover {
+	background: #000;
+	color: #fff;
+}
+
+#menu .current a, #menu li:hover > a {
+	background: gray;
+}
+
+#menu ul li:hover a, #menu li:hover li a {
+	background: none;
+	border-color:#DDDDDD;
+	border-width:1px;
+	border-bottom-style: solid;
+}
+
+#menu ul a:hover {
+	background: gray !important;
+	color: #fff !important;
+	text-shadow: none;
+}
+
+#menu li:hover > ul {
+	display: block;
+}
+
+#menu ul {
+	display: none;
+	margin: 0;
+	padding: 0;
+	width: 185px;
+	position: absolute;
+	top: 35px;
+	left: 0;
+	background: white;
+	border: solid 1px #b4b4b4;
+	-moz-box-shadow: 1px 1px 12px #555;
+	-webkit-box-shadow: 1px 1px 12px #555;
+	box-shadow: 1px 1px 12px #555;
+}
+
+#menu ul li {
+	float: none;
+	margin: 0;
+	padding: 0;
+}
+
+#menu ul a {
+	font-weight: normal;
+	color: black;
+	text-shadow: none;
+}
+
+#menu ul ul {
+	left: 181px;
+	top: -3px;
+}
+
+#menu:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
