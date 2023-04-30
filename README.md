@@ -1,9 +1,10 @@
 # flotte
 Gestion de flotte automobile
 
-Pour test (la gestion des utilisateur est desactivé): http://flotte.atspace.eu/
-Administration : 
-   login : admin
+Pour test (la gestion des utilisateur est desactivé): http://flotte.atspace.eu/ <vb
+                                                                      
+Administration :                                                                                
+   login : admin / 
    mdp :   admin
    
 Chauffeur :
