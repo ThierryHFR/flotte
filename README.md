@@ -4,12 +4,12 @@ Gestion de flotte automobile
 Pour test (la gestion des utilisateur est desactivé): http://flotte.atspace.eu/ 
                                                                       
 Administration :                                                                                
-   login : admin / 
-   mdp :   admin
+   - login : admin                                                                                
+   - mdp :   admin
    
-Chauffeur :
-   login : demon
-   Plaque : au choix
+Chauffeur :                                                                                
+   - login : demo                                                                                
+   - plaque : au choix
 
 Pour l"instalation : 
   1 ) clonner le depot sur votre serveur
