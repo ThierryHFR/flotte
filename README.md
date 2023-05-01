@@ -20,5 +20,5 @@ Pour l"instalation :
         $username = "myusername";
         $password = "mypassword";
         $dbname = "database";
-  3 ) la base de données (MySql) est générée à l'aide du fichier data/flotte.sql
+  3 ) la base de données (MySql) est générée à l'aide du fichier data/flotte.sql                                                                                
   4 ) pour un jeux de test utiliser les données de fichier data/test.sql 
