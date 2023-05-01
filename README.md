@@ -8,7 +8,7 @@ Administration :
    - mdp :   admin
    
 Chauffeur :                                                                                
-   - login : demo                                                                                
+   - login : chauffeur                                                                                
    - plaque : au choix
 
 Pour l"instalation :                                                                                 
