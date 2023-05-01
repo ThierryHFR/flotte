@@ -11,11 +11,11 @@ Chauffeur :
    - login : demo                                                                                
    - plaque : au choix
 
-Pour l"instalation : 
-  1 ) clonner le depot sur votre serveur
-  2 ) Reseigne les variables :
+Pour l"instalation :                                                                                 
+   1 ) clonner le depot sur votre serveur2                                                                                
+   2 ) Reseigne les variables :                                                                                
+   
         $BASE_PATH='';
-
         $servername = "localhost";
         $username = "myusername";
         $password = "mypassword";
