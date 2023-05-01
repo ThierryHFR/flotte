@@ -12,8 +12,8 @@ Chauffeur :
    - plaque : au choix
 
 Pour l"instalation :                                                                                 
-   1 ) clonner le depot sur votre serveur2                                                                                
-   2 ) Reseigne les variables :                                                                                
+   1 ) cloner le depot sur votre serveur2                                                                                
+   2 ) Renseigne les variables du fichier common.php :                                                                                
    
         $BASE_PATH='';
         $servername = "localhost";
